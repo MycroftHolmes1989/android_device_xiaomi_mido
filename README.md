@@ -16,7 +16,7 @@
 | Display                 | 1920x1080 pixels, 5.5 (~401 PPI)  |
 | Rear Camera             | 13 MP, LED flash                  |
 | Front Camera            | 5 MP                              |
-| Release Date            | January 2017                      |
+| Release Date            | January 2016                      |
 
 ## Device Picture
 
